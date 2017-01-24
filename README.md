@@ -12,7 +12,8 @@ You can setup external https:4433 proxy to internal http:8292
 ```
 1. git clone https://github.com/iamgyz/line-bot-echoer  
 2. open line-bot-echo.js, fill up your channel id/token/secret 
-3. npm start
+3. npm isntall
+4. npm start
 ```
 
 ## Live Demo  
