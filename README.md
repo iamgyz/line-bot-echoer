@@ -4,7 +4,8 @@
 Please add this bot as your friend  
 ID: @mvi1138r  
 LINK: https://line.me/R/ti/p/%40mvi1138r  
-QRCode: ![QRCode](http://qr-official.line.me/L/EsChPOPPvY.png)  
+QRCode:
+![QRCode](http://qr-official.line.me/L/EsChPOPPvY.png)  
 
 ## How to quickly run a LINE bot?  
 
