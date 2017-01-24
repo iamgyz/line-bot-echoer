@@ -1,0 +1,18 @@
+{
+  "name": "line-bot-echoer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "line-bot-echo.js",
+  "scripts": {
+    "start": "node line-bot-echo.js",
+    "startf": "nohup forever line-bot-echo.js >LOG_line-bot-echo.log 2>&1 &",
+    "reload":  "ps -aux | grep node| grep 'line-bot-rail/line-bot-echo.js' | awk '{print $2}' | xargs kill -9",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "GYZLAB",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0",
+    "line-messaging": "^1.1.8"
+  }
+}
