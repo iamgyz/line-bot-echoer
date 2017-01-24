@@ -1,5 +1,11 @@
 # Line-bot-echoer
 
+## Live Demo  
+Please add this bot as your friend  
+ID: @mvi1138r  
+LINK: https://line.me/R/ti/p/%40mvi1138r  
+QRCode: ![QRCode](http://qr-official.line.me/L/EsChPOPPvY.png)  
+
 ## How to quickly run a LINE bot?  
 
 ### Step1: Go to create a LINE@ account  
@@ -15,7 +21,4 @@ You can setup external https:4433 proxy to internal http:8292
 3. npm isntall
 4. npm start
 ```
-
-## Live Demo  
-Sooner or later....
 
